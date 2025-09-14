@@ -1,0 +1,18 @@
+# E-Commerce Query Processor Requirements
+# Install with: pip install -r requirements.txt
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.20.0
+
+# Web interface
+flask>=2.0.0
+
+# Standard library modules used (no installation needed):
+# - json
+# - re
+# - collections
+# - statistics
+# - typing
+# - datetime
+# - operator

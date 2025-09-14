@@ -1,0 +1,107 @@
+{
+  "basic_stats": {
+    "total_products": 21176,
+    "unique_attributes": 3249,
+    "top_attributes": {
+      "id": 21176,
+      "": 9748,
+      "Color": 9566,
+      "Type": 8669,
+      "Sales Package": 7444,
+      "Weight": 7401,
+      "Brand": 6803,
+      "Model Name": 6644,
+      "Model Number": 6344,
+      "Width": 5237
+    }
+  },
+  "categories": {
+    "types": {
+      "Single-Door": 382,
+      "Double-Door": 382,
+      "Backpack": 241,
+      "Belt": 211,
+      "Laptop Backpack": 198,
+      "Straight": 191,
+      "Special Supplements": 166,
+      "Single Breasted": 150,
+      "Gaming Laptop": 137,
+      "Bansuri": 127
+    },
+    "brands": {
+      "Whirlpool": 115,
+      "Samsung": 107,
+      "SG Musical": 103,
+      "MuscleBlaze": 97,
+      "LG": 81,
+      "AS-IT-IS Nutrition": 73,
+      "Philips": 64,
+      "IFB": 58,
+      "Herbalife": 56,
+      "Horlicks": 50
+    }
+  },
+  "sample_products": [
+    {
+      "Durability": "Dust Resistant, UV Ray Protection, Water Resistant, Weather Resistant",
+      "Model Number": "cover_ur",
+      "Sales Package": "1",
+      "Weight": "390 g",
+      "id": "1"
+    },
+    {
+      "Battery Voltage": "12 V",
+      "Blower": "No",
+      "Cord Length": "3 m",
+      "Covered in Warranty": "Manufacturing Defects Only.",
+      "Domestic Warranty": "1 Year",
+      "Dust Collecting Feature": "Air Dust Catcher",
+      "Features": "Anti-Bacterial Cleaning",
+      "Filter": "HEPA Filtration Technology",
+      "Filteration system": "HEPA",
+      "Indicators": "Power Indicator",
+      "Motor and Suction Power": "110 W(Motor), 110 W(Suction)",
+      "Net Weight": "1.2 kg",
+      "Not Covered in Warranty": "Physical Damages",
+      "Pet Hair Collector": "Yes",
+      "Power Requirement": "12, 24V",
+      "Sales Package": "1 Set of Vacuum Cleaner",
+      "Sound Level": "40 dB",
+      "Type": "Car Vacuum Cleaner",
+      "W x H x D": "31 x 10 x 10 cm",
+      "Wand": "Multiple Nozzles",
+      "Wheels": "No",
+      "WiFi Connectivity": "No",
+      "id": "2"
+    },
+    {
+      "Model Number": "hscap",
+      "Other Features": "cap",
+      "Pack of": "1",
+      "Sales Package": "1",
+      "id": "3"
+    },
+    {
+      "Light Type": "Interior Ambient",
+      "Sales Package": "1 car fancy light",
+      "id": "4"
+    },
+    {
+      "Bluetooth Range": "10",
+      "Bluetooth Version": "Bluetooth vv5.0",
+      "Brand": "Portronics",
+      "Car Stereo Connectivity": "Yes",
+      "Color": "Black",
+      "Display": "No",
+      "Features": "FM Transmitter, Voice Prompt, Music Streaming Support",
+      "In The Box": "1 Car Adapter",
+      "Microphone Type": "Not Included",
+      "Model": "POR-320 Auto 10",
+      "Talktime": "780 Days",
+      "Type": "Car Bluetooth Converter",
+      "Weight": "34 g",
+      "Width x Height x Depth": "38 x 85 x 43 mm",
+      "id": "5"
+    }
+  ]
+}
